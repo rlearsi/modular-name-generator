@@ -18,9 +18,9 @@ Este é um sistema **modular** de geração de **nicknames** procedural baseado 
    - Cada estilo é representado por um arquivo `.txt` contendo as sílabas divididas em três linhas: *início*, *meio* e *fim*.
    - O nome do arquivo (por exemplo, `anime.txt`) representa o nome do estilo.
    - Exemplo de Arquivo: viking.txt
-    ```Thor, Fre, As, Hel, Svi, Gun
-        dar, var, vin, rik, ald, ste
-      son, dal, grim, fjord, heim, skjold```
+   - ```Thor, Fre, As, Hel, Svi, Gun
+   - dar, var, vin, rik, ald, ste
+   - son, dal, grim, fjord, heim, skjold```
 
 2. **Carregamento Automático**:
    - O sistema carrega dinamicamente os arquivos de estilos da pasta `styles/`.
